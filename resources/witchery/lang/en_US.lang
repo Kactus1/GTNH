@@ -1,0 +1,3 @@
+witchery:cauldronbook.otherwherechalk=[h1 Crafting: Otherwhere Chalk]Used in rites involving transposition.[br][br][template=tcraft stack|0=gregtech:gt.metaitem.01|2533,witchery:ingredient|37,HardcoreEnderExpansion:end_powder,dreamcraft:item.ManyullynCrystal,witchery:chalkritual 1=witchery:chalkotherwhere]
+witchery:cauldronbook.infernalchalk=[h1 Crafting: Infernal Chalk]Used in rites involving the nether and demons.[br][br][template=tcraft stack|0=nether_wart,blaze_rod,nether_star,witchery:chalkritual 1=witchery:chalkinfernal]
+witchery:cauldronbook.goldenchalk=[h1 Crafting: Golden Chalk]The centrepiece of most rites.[br][br][template=tcraft stack|0=witchery:ingredient|22,gregtech:gt.metaitem.01|2086,witchery:ingredient|29,witchery:chalkritual 1=witchery:chalkheart]
